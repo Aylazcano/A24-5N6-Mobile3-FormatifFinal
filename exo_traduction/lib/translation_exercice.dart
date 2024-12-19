@@ -44,6 +44,14 @@ class TranslationExercise extends StatelessWidget {
                   onPressed: () {
                     // Action Oui
                   },
+                  style: ElevatedButton.styleFrom(
+                    foregroundColor: Colors.white,
+                    backgroundColor: Colors.green, // Google-like button
+                    shape: RoundedRectangleBorder(
+                      borderRadius: BorderRadius.circular(30),
+                    ),
+                    side: BorderSide(color: Colors.pink),
+                  ),
                   child: Text(S.of(context).yes),
                 ),
               ),
@@ -52,6 +60,14 @@ class TranslationExercise extends StatelessWidget {
                   onPressed: () {
                     // Action Non
                   },
+                  style: ElevatedButton.styleFrom(
+                    foregroundColor: Colors.black,
+                    backgroundColor: Colors.red, // Google-like button
+                    shape: RoundedRectangleBorder(
+                      borderRadius: BorderRadius.circular(0),
+                    ),
+                    side: BorderSide(color: Colors.black),
+                  ),
                   child: Text(S.of(context).no),
                 ),
               ),
