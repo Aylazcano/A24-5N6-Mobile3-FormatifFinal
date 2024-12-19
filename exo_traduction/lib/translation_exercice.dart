@@ -40,6 +40,7 @@ class TranslationExercise extends StatelessWidget {
           Row(
             children: [
               Expanded(
+                flex: 2,
                 child: ElevatedButton(
                   onPressed: () {
                     // Action Oui
@@ -56,6 +57,7 @@ class TranslationExercise extends StatelessWidget {
                 ),
               ),
               Expanded(
+                flex: 1,
                 child: ElevatedButton(
                   onPressed: () {
                     // Action Non
