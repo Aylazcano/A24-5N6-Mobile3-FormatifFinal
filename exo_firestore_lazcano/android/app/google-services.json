@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "429369073135",
+    "project_id": "a24-mobile2-formatif-final",
+    "storage_bucket": "a24-mobile2-formatif-final.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429369073135:android:598f4c0bf033d7ef9d6a1a",
+        "android_client_info": {
+          "package_name": "com.example.exo_firestore_lazcano"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6mdDS41ZqYe0x4PmgIKpeZ9FRfvqqIy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
