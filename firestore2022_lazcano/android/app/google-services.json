@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "711868623840",
+    "project_id": "mobil2formatiffinal2022",
+    "storage_bucket": "mobil2formatiffinal2022.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711868623840:android:6ea28c1454dfd69c861985",
+        "android_client_info": {
+          "package_name": "com.example.firestore2022_lazcano"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb5QfEL_L0KoCAxuUoF0FduODDYlTEWRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
